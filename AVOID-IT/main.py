@@ -18,7 +18,7 @@ pygame.display.set_caption("AVOID IT MATE :)")
 player_size = 50
 player_x = SCREEN_WIDTH // 2
 player_y = SCREEN_HEIGHT - player_size
-player_speed = 20
+player_speed = 22
 
 player_sprite = pygame.image.load("player.png")
 player_sprite = pygame.transform.scale(player_sprite, (player_size, player_size))
