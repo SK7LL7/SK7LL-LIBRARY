@@ -4,8 +4,8 @@ import math
 
 pygame.init()
 
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 640
+SCREEN_HEIGHT = 480
 
 WHITE = (255, 255, 255)
 GREEN = (0, 128, 0)
