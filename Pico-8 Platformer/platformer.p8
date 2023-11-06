@@ -1,6 +1,3 @@
-pico-8 cartridge // http://www.pico-8.com
-version 41
-__lua__
 -- initialize player position and velocity
 local player_x = 64
 local player_y = 64
